@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Video Explorer</string>
+    <string name="back_home">Back Home</string>
+    <string name="next_video">Next Clip</string>
+    <string name="previous_video">Previous Clip</string>
+
+</resources>
